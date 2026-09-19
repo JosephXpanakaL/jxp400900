@@ -4,8 +4,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=700&color=38BDF8&center=true&vCenter=true&repeat=true&width=820&height=50&lines=I+turn+ideas+into+meaningful+digital+experiences;Building+at+the+intersection+of+faith%2C+music+and+code;Learning+deeply.+Creating+responsibly.+Serving+joyfully." alt="Animated introduction" />
 
   <p>
-    <a href="https://github.com/jxp400900?tab=followers"><img src="https://img.shields.io/github/followers/jxp400900?style=for-the-badge&logo=github&label=Community&color=2563EB" alt="GitHub followers" /></a>
-    <img src="https://komarev.com/ghpvc/?username=jxp400900&style=for-the-badge&color=0891B2&label=PROFILE+VIEWS" alt="Profile views" />
+    <a href="https://github.com/JosephXpanakaL?tab=followers"><img src="https://img.shields.io/github/followers/JosephXpanakaL?style=for-the-badge&logo=github&label=Community&color=2563EB" alt="GitHub followers" /></a>
+    <img src="https://komarev.com/ghpvc/?username=JosephXpanakaL&style=for-the-badge&color=0891B2&label=PROFILE+VIEWS" alt="Profile views" />
     <a href="mailto:joseph.xp159@gmail.com"><img src="https://img.shields.io/badge/LET'S_CONNECT-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Joseph" /></a>
   </p>
 </div>
@@ -45,7 +45,7 @@
 <div align="center">
   <a href="mailto:joseph.xp159@gmail.com"><img src="https://img.shields.io/badge/Email-Joseph-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Joseph" /></a>
   <a href="https://www.instagram.com/the_soundwithin/"><img src="https://img.shields.io/badge/My_Music-%40the__soundwithin-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="The Sound Within" /></a>
-  <a href="https://github.com/jxp400900"><img src="https://img.shields.io/badge/GitHub-%40jxp400900-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://github.com/JosephXpanakaL"><img src="https://img.shields.io/badge/GitHub-%40JosephXpanakaL-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </div>
 
 <br />
