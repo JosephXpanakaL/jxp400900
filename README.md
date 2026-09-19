@@ -18,28 +18,12 @@
 
 <br />
 
-<table>
-  <tr>
-    <td width="34%" align="center" valign="middle">
-      <h1>👋</h1>
-      <h2>Hello,<br />I'm Joseph</h2>
-      <img src="https://img.shields.io/badge/INDIA-%F0%9F%87%AE%F0%9F%87%B3-2563EB?style=flat-square" alt="India" />
-    </td>
-    <td width="66%" valign="middle">
-      <h3>Faith gives me purpose. Music gives me expression. Technology gives me possibilities.</h3>
-      <p>
-        I am <strong>Joseph X Panakal</strong>—a Salesian cleric, musician, and M.Sc. Computer Science student specializing in Data Analytics at Rajagiri College of Social Sciences.
-      </p>
-      <p>
-        With a foundation in Mathematics and a heart for young people, I explore how thoughtful technology can serve education, community, agriculture, music, and everyday human needs.
-      </p>
-      <p><code>SALESIAN</code> &nbsp; <code>MUSICIAN</code> &nbsp; <code>DATA &amp; CODE</code> &nbsp; <code>YOUTH MINISTRY</code></p>
-    </td>
-  </tr>
-</table>
-
 <div align="center">
-  <h3><em>Not just building software—learning to build things that matter.</em></h3>
+  <img width="900" src="./assets/identity-stage.svg" alt="Joseph's animated identity constellation: faith, music, data and youth" />
+  <br /><br />
+  <a href="https://www.instagram.com/the_soundwithin/">
+    <img src="https://img.shields.io/badge/%E2%96%B6_PLAY_MY_PIANO-THE_SOUND_WITHIN-7C3AED?style=for-the-badge&logo=instagram&logoColor=white" alt="Play Joseph's piano music" />
+  </a>
 </div>
 
 <h2>🧰 Creative Toolkit</h2>
